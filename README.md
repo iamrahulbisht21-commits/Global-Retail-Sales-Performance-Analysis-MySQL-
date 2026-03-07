@@ -138,9 +138,3 @@ Analyze 4+ years of retail sales data to uncover revenue trends, top-performing 
 
 **Rahul Bisht**
 [GitHub](https://github.com/iamrahulbisht021) · [LinkedIn](#)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
