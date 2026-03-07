@@ -110,7 +110,8 @@ Analyze 4+ years of retail sales data to uncover revenue trends, top-performing 
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](outputs/sales_dashboard.png)
+<img width="1214" height="679" alt="image" src="https://github.com/user-attachments/assets/73615122-de96-4efa-9ad4-3294517c1a30" />
+
 
 ---
 
