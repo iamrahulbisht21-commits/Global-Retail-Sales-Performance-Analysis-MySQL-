@@ -9,7 +9,7 @@
 ```
 Sales-Performance-BI-Dashboard/
 │
-├── Data/
+├── data/
 │   ├── dim_customers.csv          # 18,484 customer records across 6 countries
 │   ├── dim_products.csv           # 295 products across 4 categories
 │   └── fact_sales.csv             # 60,398 sales transactions (2010–2014)
@@ -17,13 +17,9 @@ Sales-Performance-BI-Dashboard/
 ├── sql/
 │   └── sales_analysis.sql         # Full SQL script: EDA, KPIs, ranking, advanced analysis
 │
-├── dashboard/
-│   └── sales_dashboard.pbix       # Power BI dashboard file
+├── visualization/
+│   └── sales_dashboard.pbix       # Power BI dashboard file     
 │
-├── outputs/
-│   └── sales_dashboard.png        # Dashboard screenshot
-│
-├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
