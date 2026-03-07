@@ -17,7 +17,7 @@ Sales-Performance-BI-Dashboard/
 ├── sql/
 │   └── sales_analysis.sql         # Full SQL script: EDA, KPIs, ranking, advanced analysis
 │
-├── visualization/
+├── dashboard/
 │   └── sales_dashboard.pbix       # Power BI dashboard file     
 │
 ├── LICENSE
